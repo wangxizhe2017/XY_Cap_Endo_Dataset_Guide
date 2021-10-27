@@ -23,6 +23,7 @@
 ### 1. 下载并安装
 ### 2. 设置VLC Media Player，使得VLC Media Player可以保存视频的每一帧
 #### 2.1. 打开VLC Media Player，点击“工具”，“偏好设置”
+<img src="https://github.com/wangxizhe2017/XY_Cap_Endo_Dataset_Guide/blob/main/images/1.png" width="1000">
 #### 2.2. 点击左下角“显示设置”中的“全部”
 #### 2.3. 在左侧list中点击“视频”，“滤镜”
 #### 2.4. 在右侧“滤镜”中，勾选“场景视频滤镜”，保存。
