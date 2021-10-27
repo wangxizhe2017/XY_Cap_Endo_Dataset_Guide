@@ -23,16 +23,16 @@
 ### 1. 下载并安装
 ### 2. 设置VLC Media Player，使得VLC Media Player可以保存视频的每一帧
 #### 2.1. 打开VLC Media Player，点击“工具”，“偏好设置”
-<img src="https://github.com/wangxizhe2017/XY_Cap_Endo_Dataset_Guide/blob/main/images/1.png" width="640">**
+<img src="https://github.com/wangxizhe2017/XY_Cap_Endo_Dataset_Guide/blob/main/images/1.png" width="320">
 #### 2.2. 点击左下角“显示设置”中的“全部”
-<img src="https://github.com/wangxizhe2017/XY_Cap_Endo_Dataset_Guide/blob/main/images/2.png" width="512">**
+<img src="https://github.com/wangxizhe2017/XY_Cap_Endo_Dataset_Guide/blob/main/images/2.png" width="256">
 #### 2.3. 在左侧list中点击“视频”，“滤镜”
 #### 2.4. 在右侧“滤镜”中，勾选“场景视频滤镜”，保存。
-<img src="https://github.com/wangxizhe2017/XY_Cap_Endo_Dataset_Guide/blob/main/images/3.png" width="512">**
+<img src="https://github.com/wangxizhe2017/XY_Cap_Endo_Dataset_Guide/blob/main/images/3.png" width="256">
 #### 2.5. 关闭VLC Media Player，再打开，设置才会生效。
 #### 2.6. 再次点击“工具”，“偏好设置”，左下角“显示设置”中的“全部”，左侧list中的“视频”，展开“滤镜”，点击“场景滤镜”
 #### 2.7. 在右侧“场景视频滤镜”中，设置“图像格式”为“jpg”，“图像宽度”为“-1”，“图像高度”为“-1”，“文件名前缀”为“”（空），“目录路径前缀”为图片要导出的目标目录（注意，每个视频的帧导出目标目录不同，千万不要设置错），不要勾选“总是写入到相同的文件中”，“录制比率”为“1”（1代表每帧都取，2代表隔帧取，以此类推），保存。
-<img src="https://github.com/wangxizhe2017/XY_Cap_Endo_Dataset_Guide/blob/main/images/4.png" width="512">**
+<img src="https://github.com/wangxizhe2017/XY_Cap_Endo_Dataset_Guide/blob/main/images/4.png" width="256">
 #### 2.8. 每次运行一个视频前，先执行2.6. ～ 2.7.，设置对应的导出目录。保存设置后，播放视频，每帧图片就自动导出。
 #### 2.9. 注意，取帧图片时，保持视频正常速度播放，不要暂停、关闭、拖拽时间进度条等，直到视频播完。
 
